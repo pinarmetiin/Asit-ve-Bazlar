@@ -1,0 +1,50 @@
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.vbprojAssemblyReference.cache
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form2.resources
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form4.resources
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Resources.resources
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form1.resources
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\bin\Debug\Asit ve Bazlar.exe.config
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\bin\Debug\Asit ve Bazlar.exe
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\bin\Debug\Asit ve Bazlar.pdb
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\bin\Debug\Asit ve Bazlar.xml
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form3.resources
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.exe
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.xml
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.pdb
+C:\Users\asus\source\repos\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form5.resources
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\bin\Debug\Asit ve Bazlar.exe.config
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\bin\Debug\Asit ve Bazlar.exe
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.vbprojAssemblyReference.cache
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form1.resources
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form2.resources
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form3.resources
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form4.resources
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form5.resources
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Resources.resources
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.vbproj.GenerateResource.cache
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.exe
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.xml
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.pdb
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\bin\Debug\Asit ve Bazlar.pdb
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\bin\Debug\Asit ve Bazlar.xml
+C:\Users\asus\Desktop\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form6.resources
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\bin\Debug\Asit ve Bazlar.exe.config
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\bin\Debug\Asit ve Bazlar.exe
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\bin\Debug\Asit ve Bazlar.pdb
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\bin\Debug\Asit ve Bazlar.xml
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.vbprojAssemblyReference.cache
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form1.resources
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form2.resources
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form3.resources
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form4.resources
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form5.resources
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Form6.resources
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit_ve_Bazlar.Resources.resources
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.vbproj.GenerateResource.cache
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.exe
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.xml
+C:\Users\asus\Desktop\AsitBaz-KonuAnlatimi-Etkinlik\Asit ve Bazlar\Asit ve Bazlar\obj\Debug\Asit ve Bazlar.pdb
